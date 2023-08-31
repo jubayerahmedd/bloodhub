@@ -14,12 +14,34 @@
 .top-slider{
     margin-top: 80px !important;
     background-color: brown;
-    height: 550px;
+    height: 650px;
     color: white;
+    align-items: center !important;
+    overflow-y: auto;
 }
 .slider-three{
     padding-top: 80px;
 }
+
+.card{
+    background-color: brown;
+}
+
+.middle-part{
+    color: rgb(223, 217, 217);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 footer{
         min-height: 550px;
