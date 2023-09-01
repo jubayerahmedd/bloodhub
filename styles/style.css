@@ -18,17 +18,29 @@
     color: white;
     align-items: center !important;
     overflow-y: auto;
+    border-radius: 15px;
 }
 .slider-three{
     padding-top: 80px;
 }
 
 .card{
-    background-color: brown;
+    background-color: rgb(70, 36, 36);
 }
 
 .middle-part{
     color: rgb(223, 217, 217);
+    background-color: rgb(206, 65, 65);
+    height: 250px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+}
+.third-section{
+    background-color: rgba(190, 44, 76, 0.397);
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
 }
 
 
